@@ -12,7 +12,10 @@ module.exports = {
         'b2': '#031319',
         'b3': '#2B383D',
         'span': '#96A4A9',
-        'color-button': '#2B383D'
+        'color-button': '#2B383D',
+        'line': ' #0C3441',
+        'sd': '#051D25',
+        'Depoimentos-modal': '#0A252E'
       },
       screens: {
         'xl' : '1292px',
